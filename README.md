@@ -46,25 +46,25 @@
 
 
 
- ### 🖼INTRODUCTORY PAGE
+<h3>🖼INTRODUCTORY PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/Introductory%20page.jpeg" width="300" height="600">
 <br></br>
-### 🖼HOME PAGE
+ <h3>🖼HOME PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/Home%20page.jpeg" width="300" height="600">
 <br></br>
-### 🖼STATE LIST PAGE
+<h3> 🖼STATE LIST PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/List%20of%20States.jpeg" width="300" height="600">
 <br></br>
-### 🖼MAHARASHTRA HOME PAGE
+<h3>🖼MAHARASHTRA HOME PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/Maharashtra%20Home%20Page.jpeg" width="300" height="600">
 <br></br>
-### 🖼MAHARASHTRA GALLERY PAGE
+<h3>🖼MAHARASHTRA GALLERY PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/maharashtra_gallery.jpeg" width="300" height="600">
 <br></br>
-### 🖼QUIZ INTRO PAGE
+<h3>🖼QUIZ INTRO PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/quiz_intro.jpeg" width="300" height="600">
 <br></br>
-### 🖼QUIZ PAGE
+<h3>### 🖼QUIZ PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/quiz_page.jpeg" width="300" height="600">
 <br></br>
 
