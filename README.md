@@ -64,7 +64,7 @@
 <h3>🖼QUIZ INTRO PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/quiz_intro.jpeg" width="300" height="600">
 <br></br>
-<h3>### 🖼QUIZ PAGE</h3>
+<h3>🖼QUIZ PAGE</h3>
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/quiz_page.jpeg" width="300" height="600">
 <br></br>
 
