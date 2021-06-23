@@ -1,0 +1,19 @@
+<resources>
+
+
+    <!--All the string resources come here including Questions and title -->
+    <string name="app_name">Bharth Ki Savari</string>
+    <string name="correct"><b>Your score:</b> \n
+                           <b>%1$d</b>correct answers out of 3!</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">True or False:The capital of Maharashtra is Delhi.</string>
+    <string name="b">True or False:\nThe Gateway of India is situated in Maharashtra.</string>
+
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+    <string name="title_activity_maha_map">Map</string>
+
+</resources>
