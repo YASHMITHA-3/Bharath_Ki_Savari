@@ -41,7 +41,7 @@
 
 📌The Quiz section consists of options which enables the users to choose the state based on which they want to take the quiz, the level of difficulty and start the quiz.
 
-📌After starting the quiz the users have to complete a each question in given time limit. after answering each question the score is updated and the right option is highlighted with green and wrong answer is highlighted with red.
+📌After starting the quiz the users have to complete a each question in given time limit. After answering each question the score is updated and the right option is highlighted with green and wrong answer is highlighted with red.
 
 
 
