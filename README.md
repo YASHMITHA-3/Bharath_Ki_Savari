@@ -1,4 +1,4 @@
-# Bharath_Ki_Savari-TOYCATHON
+# TOYCATHON 2021
 
 <i>
 <h2> TEAM NAME : Visionaries </h2><h4>City: Bengaluru<br>Team ID: 14757</h4>
