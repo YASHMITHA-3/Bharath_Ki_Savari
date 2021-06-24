@@ -68,7 +68,7 @@
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/quiz_page.jpeg" width="300" height="600">
 <br></br>
 
-
+### This app was made for the TOYCATHON 2021 hackthon event.
 
 ## Contributors
 
