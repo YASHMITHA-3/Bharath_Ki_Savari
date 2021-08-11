@@ -68,14 +68,14 @@
 <img src="https://github.com/YASHMITHA-3/Bharath_Ki_Savari/blob/main/quiz_page.jpeg" width="300" height="600">
 <br></br>
 
-### This app is a prototye built for TOYCATHON 2021.
+### This app is a prototype built for TOYCATHON 2021.
 
 ## Contributors
 
 * **🙍‍♀️Yashmitha R** - [GitHub Profile](https://github.com/YASHMITHA-3)
 * **🙍‍♀️Tejal Lalji Rangai** - [GitHub Profile](https://github.com/TejalLr)
 * **🙍‍♀️Reshma K** - [GitHub Profile](https://github.com/Reshma-8)
-* **🙍‍♀️Anushka K** - [GitHub Profile](https://github.com/anushkasen23)
+* **🙍‍♀️Anushka Sen** - [GitHub Profile](https://github.com/anushkasen23)
 
 
 
