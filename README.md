@@ -73,7 +73,7 @@
 ## Contributors
 
 * **🙍‍♀️Yashmitha R** - [GitHub Profile](https://github.com/YASHMITHA-3)
-* **🙍‍♀️Tejal Lalji Rangai** - [GitHub Profile](https://github.com/TejalLr)
+* **🙍‍♀️Tejal Lalji Rangani** - [GitHub Profile](https://github.com/TejalLr)
 * **🙍‍♀️Reshma K** - [GitHub Profile](https://github.com/Reshma-8)
 * **🙍‍♀️Anushka Sen** - [GitHub Profile](https://github.com/anushkasen23)
 
